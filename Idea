@@ -1,0 +1,21 @@
+
+Aim:
+
+This project aims strategic grouping phase of competitive analysis to define the strategic groups within 
+the automotive industry in india using a mathematical methodology.
+
+
+Some packages are:
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+
+What this project does?
+
+The main objective of this Project is to be able to identify the strategic group of a car given a set of features to that car.
+
+The Car we want to identify the strategic group for which is known as Hyundai Elite i20 in india.
