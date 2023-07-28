@@ -1,7 +1,9 @@
 .👋 Hi, I’m Mohammed Hannan Ahmed
 
-.👀 I’m interested in AI/Machine Learning
+.👀 I’m interested in Data analytics & visualization 
 
-.🌱 I’m currently learning Data Science
+.🌱 I’m currently pursuing $th year B.Tech in Computer Science and Data Science
 
-.Intrested in Entrepreneurship 
+.Interested in Entrepreneurship 
+
+
