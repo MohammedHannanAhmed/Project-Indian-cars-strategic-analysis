@@ -1,9 +1,4 @@
-.👋 Hi, I’m Mohammed Hannan Ahmed
+.Third Python Project 
 
-.👀 I’m interested in Data analytics & visualization 
-
-.🌱 I’m currently pursuing 4th year B.Tech in Computer Science and Engineering (Data Science)
-
-.Interested in Entrepreneurship 
-
+.Used Indian cars dataset from Kaggle and Analysed with visualizations.
 
